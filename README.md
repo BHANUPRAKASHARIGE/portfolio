@@ -1,4 +1,4 @@
-Open to work · Hyderabad, India
+Open to work
 
 # Bhanu Prakash Arige
 
@@ -6,7 +6,7 @@ Java Full Stack Developer **/ Spring Boot · MySQL · JavaScript**
 
 I build layered web apps with Spring Boot, Hibernate and MySQL, then give them responsive front ends. Looking for a product team that needs a Java, full stack, frontend or SQL developer.
 
-[See my work](#work) [Open terminal](#contact)
+[See my work](#work) [Open terminal](#contact) [GitHub](https://github.com/BHANUPRAKASHARIGE) [LinkedIn](https://www.linkedin.com/in/bhanuprakash-arige-a30902295/)
 
 Spring Boot B.Tech CSE · 2025
 
@@ -48,7 +48,7 @@ Project
 
 ### Employee Management System
 
-Controller–Service–Repository on Spring Boot
+Controller–Service–Repository on Spring Boot · [Live Demo](https://nexus-hr-employee-management-system.onrender.com)
 
 Project
 
@@ -106,6 +106,7 @@ Project / Full stack
 - Complete CRUD for employee records on MySQL.
 - Spring Data JPA and Hibernate map entities to tables, removing boilerplate SQL.
 - Responsive Thymeleaf pages to add, view, update and delete employee data.
+- **Live Project:** [nexus-hr-employee-management-system.onrender.com](https://nexus-hr-employee-management-system.onrender.com)
 
 JavaSpring BootSpring MVCHibernateMySQLThymeleaf
 
@@ -130,7 +131,9 @@ Write a message in the terminal to compile a draft you can copy, or reach me dir
 
 `+91 9014091116`
 
-`Hyderabad, India`
+[github.com/BHANUPRAKASHARIGE](https://github.com/BHANUPRAKASHARIGE)
+
+[linkedin.com/in/bhanuprakash-arige](https://www.linkedin.com/in/bhanuprakash-arige-a30902295/)
 
 bhanu@portfolio:\~/contact
 
@@ -142,4 +145,4 @@ email>
 
 msg>
 
-Bhanu Prakash Arige · Java Full Stack Developer · 2026
+Bhanu Prakash Arige · Java Full Stack Developer · 2026 · [GitHub](https://github.com/BHANUPRAKASHARIGE) · [LinkedIn](https://www.linkedin.com/in/bhanuprakash-arige-a30902295/)
